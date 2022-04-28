@@ -6,4 +6,4 @@ Git öğrenme sürecim
 
 [lorem ipsum](https://google.com)
 
-[link 2](https://coderahmet.com)
+[Coder Ahmetin Web Sitesi](https://coderahmet.com)
