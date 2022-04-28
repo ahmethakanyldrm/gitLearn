@@ -1,0 +1,3 @@
+asadasasfsaf;
+
+function name(params) {}

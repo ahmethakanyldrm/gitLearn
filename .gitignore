@@ -1,0 +1,12 @@
+
+# log dosyaları
+*.log 
+
+# görseller 
+*.jpg
+*.mp4
+
+index.html
+metin.txt
+css/*
+password.txt
