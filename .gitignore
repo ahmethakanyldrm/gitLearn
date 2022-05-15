@@ -25,10 +25,8 @@ img/
 
 # Css
 css/
-*.style.css
 # packages
 
 # log
 
 password.txt
-index2.html
