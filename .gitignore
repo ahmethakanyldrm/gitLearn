@@ -24,9 +24,10 @@ logo.jpg
 img/
 
 # Css
-css/
+css/style.css
 # packages
-
+js/test.js
 # log
 
 password.txt
+index2.html
