@@ -20,7 +20,7 @@
 
 # img
 *.jpg
-logo.jpg 
+
 #img/
 
 # Css
@@ -29,5 +29,5 @@ logo.jpg
 #js/test.js
 # log
 
-password.txt
-index2.html
+#password.txt
+#index2.html
