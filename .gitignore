@@ -6,7 +6,8 @@
 *.jpg
 *.mp4
 
-index.html
+*.index.html
 metin.txt
 css/*
 password.txt
+js/*.
