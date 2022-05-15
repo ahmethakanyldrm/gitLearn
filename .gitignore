@@ -21,12 +21,12 @@
 # img
 *.jpg
 logo.jpg 
-img/
+#img/
 
 # Css
-css/style.css
+#css/style.css
 # packages
-js/test.js
+#js/test.js
 # log
 
 password.txt
