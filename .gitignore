@@ -1,13 +1,33 @@
+# görseller
+# videolar
+# logolar
+# paket yöneticisi ile kurulmuş dosyalar
 
-# log dosyaları
-*.log 
+# VsCode (İnternetten bulunabilir)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
 
-# görseller 
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+
+# img
 *.jpg
-*.mp4
+logo.jpg 
+img/
 
-*.index.html
-metin.txt
-css/*
+# Css
+css/
+*.style.css
+# packages
+
+# log
+
 password.txt
-js/*.
