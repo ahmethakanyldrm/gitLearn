@@ -1,5 +1,7 @@
 # Deneme
 
+NewBranchte Readme dosyası düzenlendi.
+
 ## Alt Bilgi
 
 Git öğrenme sürecim
